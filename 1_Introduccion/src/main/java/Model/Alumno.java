@@ -6,7 +6,6 @@ public class Alumno {
     int id;
     String nombre;
     String apellido;
-    String otravariable;
     
     // Crear el constructor vacío
     public Alumno() {

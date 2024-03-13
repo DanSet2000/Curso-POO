@@ -1,11 +1,11 @@
 
-package Main;
+package com.mycompany._herencia;
 
 import Model.Consultor;
 import Model.Empleado;
 
 
-public class Herencia {
+public class App {
 
     public static void main(String[] args) {
         

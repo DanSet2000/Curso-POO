@@ -1,11 +1,11 @@
-package Main;
+package com.mycompany._polimorfismo;
 
 import Model.Consultor;
 import Model.Empleado;
 import Model.Jefe;
 import Model.Persona;
 
-public class Polimorfismo {
+public class App {
 
     public static void main(String[] args) {
         

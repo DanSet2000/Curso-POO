@@ -6,6 +6,7 @@ public class Alumno {
     int id;
     String nombre;
     String apellido;
+    String variable;
 
     
     // Crear el constructor vacío

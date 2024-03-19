@@ -1,0 +1,21 @@
+----------- EJERCICIO: VIDEOJUEGOS ---------------------
+
+Crear una clase llamada Videojuego, que tenga los siguientes atributos:
+
+- Codigo
+- Titulo
+- Consola
+- Cantidad de Jugadores
+- Categoria
+
+Tener en cuenta todos sus atributos, constructores, métodos getters y setters.
+
+1) Crear un ArrayList de tipo Videojuego. Crear 5 videouegos y guardarlos en la Collection.
+
+2) Recorrer la ArrayList creada y mostrar por pantalla el título, consola y cantidad de jugadores 
+   de los videojuegos almacenados.
+
+3) Cambiar el nombre y cantidad de jugadores de dos videojuegos. 
+
+4) Recorrer el ArrayList y mostrar por pantalla unicamente los videojuegos que sean de la consola 
+   "Nintendo 64".
